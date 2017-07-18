@@ -1127,7 +1127,7 @@ das Nações Unidas para o Meio Ambiente e Desenvolvimento em 1992,
 foram definidos 27 princípios de ação, entre eles, encontram-se os
 seguintes:
 
-**1) Princípio das responsabilidades comuns, mas diferenciadas.**
+####1) Princípio das responsabilidades comuns, mas diferenciadas.
 
 Os Estados devem atuar no sentido de cooperação mundial tendo em vista conservar, proteger e restabelecer a
 saúde e a integridade do ecossistema terrestre. Considerando os
@@ -1138,13 +1138,13 @@ esforço internacional em favor do desenvolvimento sustentado,
 considerando a pressão que suas sociedades exercem sobre o meio
 ambiente mundial e as técnicas e recursos financeiros que possuem.
 
-**2) Princípio da equidade intra e intergerações na satisfação ao direito ao desenvolvimento.**
+####2) Princípio da equidade intra e intergerações na satisfação ao direito ao desenvolvimento.
 
 O direito ao desenvolvimento deve ser realizado de forma que satisfaça
 equitativamente as necessidades relativas ao desenvolvimento e ao
 meio ambiente das gerações atuais e futuras.
 
-**3) Princípio da precaução e incertezas científicas.**
+####3) Princípio da precaução e incertezas científicas.
 
 Para proteger o meio ambiente, medidas de precaução devem ser
 amplamente aplicadas pelos Estados segundo suas capacidades. Em caso
@@ -1153,7 +1153,7 @@ certeza científica absoluta não deve servir de pretexto para
 adiar a adoção de medidas efetivas visando prevenir a degradação do
 meio ambiente.
 
-**4) Princípio de participação e exigência de bom governo.**
+####4) Princípio de participação e exigência de bom governo.
 
 A melhor forma de abordar as questões de meio ambiente é garantir a
 participação de todos os cidadãos e cidadãs interessados em nível
